@@ -38,6 +38,35 @@ A European bank is losing customers at a rate of ~20%, representing over
 
 ---
 
+## 📊 ML Analysis
+
+### Churn Distribution
+![Churn Distribution](screenshots/churn_distribution.png)
+
+### Churn by Geography & Gender
+![Churn by Category](screenshots/churn_by_category.png)
+
+### Feature Distributions
+![Feature Distributions](screenshots/feature_distributions.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](screenshots/correlation_heatmap.png)
+
+---
+
+## 🤖 Model Evaluation
+
+### ROC Curve — Random Forest vs XGBoost
+![ROC Curve](screenshots/roc_curve.png)
+
+### Confusion Matrix
+![Confusion Matrix](screenshots/confusion_matrix.png)
+
+### SHAP Feature Importance
+![SHAP Importance](screenshots/shap_importance.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 | Tool | Purpose |
